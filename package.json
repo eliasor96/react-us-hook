@@ -1,0 +1,48 @@
+{
+  "name": "react-us-hook",
+  "version": "1.0.0",
+  "description": "Useful react hook for United States",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "node ./scripts/start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "US",
+    "USA",
+    "useState",
+    "state",
+    "United States"
+  ],
+  "author": "Or Elias",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasor96/react-us-hook.git"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "peerDependencies": {
+    "react": "0.14.x || 15.x || 16.x",
+    "react-dom": "0.14.x || 15.x || 16.x"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "html-webpack-plugin": "^4.2.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3",
+    "css-loader": "^3.5.3",
+    "regenerator-runtime": "^0.13.5",
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1"
+  }
+}
