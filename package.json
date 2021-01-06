@@ -23,7 +23,7 @@
     "url": "git+https://github.com/eliasor96/react-us-hook.git"
   },
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "peerDependencies": {
     "react": "0.14.x || 15.x || 16.x",
